@@ -5,8 +5,8 @@
   "repository": "https://github.com/justinglibert/algorithms-js.git",
   "author": "Justin Glibert <me@justinglibert.com>",
   "license": "MIT",
-
   "dependencies": {
+    "eslint": "^4.9.0",
     "winston": "^3.0.0-rc0"
   },
   "scripts": {
